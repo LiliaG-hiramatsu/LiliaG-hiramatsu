@@ -4,7 +4,7 @@
 ### Software Development Student
 
 Hello I'm **Lilia García**, I'm 28 years old, and I'm living in **Mendoza, Argentina**.
-I'm **Front End Development** from MindHub and I'm studying **Full Stack with Javascript** in the bootcamp created by Guillermo Rodas.
+I'm **Front End Developer** from MindHub and I'm studying **Full Stack with Javascript** in the bootcamp created by Guillermo Rodas.
 Also, I'm studying for Tecnicature **Software Development** admission.
 
 Until now in this bootcamp I've learned:
